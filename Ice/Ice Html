@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Education</h1>
+    <h1 class="Title">This is another tag</h1>
+    <h2>class="Name"> this is another tag</h2>
+    <h2>class="list"> This is another tag</h2>
+    <h2> Eudcation is the difference between wishing you could help others & being able to help them
+        ---President Nelson
+    </h2>
+    
+    nav {
+        background-color: var(--nav-background-color);
+        line-height: 3em;
+        text-align: center;
+        font-size: 2.5em;
+      }
+
+    
+</body>
+</html>
