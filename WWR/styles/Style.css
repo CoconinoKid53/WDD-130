@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+French+Canon&family=Lato:ital,wght@0,400;0,700;1,400&display=swap');
+
+
+body {
+    background-color: darkblue;
+    font-family: 'lato', sans-serif;
+    font-size: 22px;
+    margin:0;
+    padding: 0;
+}
+h1 {
+    background-color:darkgreen;
+    color:white;
+    padding: 1px;
+    margin: 20px;
+    border-radius: 15px;
+
+}
+h2{
+    margin: 0;
+}
+#highlight{
+    background-color:rgb(9, 209, 236);
+    display:inline-block;
+}
+.joseph {
+    font-size: 25em;
+    max-width:700px;
+    margin:0 auto;
+
+}
+#content{
+    max-width: 1600px;
+    margin: 0 auto;
+}
+nav a{
+    text-decoration: none;
+    color: #fcfbfb;
+    text-align: center;
+    padding: 35px;
+}
+   
+main section{
+    text-align: center;
+}
+#background{
+    height: 725px;
+        background-color:rgba(20,30,13, .7);
+}
+.icon{
+    width: 80px;
+}
+nav a,
+.book, .join{
+    background-color: #d9c2a3;
+    color: black;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 15px 30px;
+    margin-top: 50px;
+    border-radius: 5px;
+}
+.card-img {
+    border: 10px solid #d9c2a3;
+}
+main section img {
+    box-sizing: border-box;
+}
+
+footer a{
+    text-decoration: none;
+}
+footer p {
+    font-size: 1.2em;
+}    
+footer p a:hover {
+    text-decoration: underline;
+}    
+             
+.home-title{
+    font-size: 2em;
+    font-family: 'French canon', sans-serif;
+    margin-top: 10px;
+}
+
+.book, .join{
+    background-color: #d9c2a3;
+    color: black;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 18px;
+    margin-top: 50px;
+    border-radius: 5px;
+}
+
+.rivers-card, .camping-card, .rapids-card {
+    margin: 200px 0;
+}
+
+footer{
+    margin-top: 200px;
+
+}
+
+.msg {
+    background-color: #6f7364;
+    line-height: 1.5em;
+  }
+
+  #logo_link{
+    padding-top: 5px;
+  }
+
+  nav a  {
+    padding: 35px;
+  }
+
+  .book, .join {
+
+    padding: 15px 30px;
+  }
+
+  .icon {
+
+   padding-top: 10px;
+  }
+
+  .msg {
+
+   padding: 35px;
+  }
+
+  .msg p {
+
+   padding-bottom: 15px;
+  }
+
+  footer {
+
+   padding: 25px 50px;
+  }
+
+  footer .social img  {
+
+   padding-top: 15px;
+  }
