@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Folder</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M10.2,3 L18.0092049,3 C19.1086907,3 20,3.89339733 20,4.99188419 L20,16.0081158 C20,17.1082031 19.1017876,18 18.0092049,18 L1.99079514,18 C0.891309342,18 0,17.1066027 0,16.0081158 L0,4.99188419 L0,2.00585866 C0,0.898053512 0.895857811,0 1.9973917,0 L7.0026083,0 C8.10573727,0 9.33025932,0.825648308 9.74472618,1.86181545 L10.2,3 Z" id="path-1"></path>
+    </defs>
+    <g id="Folder" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" opacity="0" x="0" y="0" width="24" height="24"></rect>
+        <g id="Object/Jira/Changes/Medium-Copy-3" transform="translate(2.000000, 3.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Combined-Shape" fill="#42526E" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>
