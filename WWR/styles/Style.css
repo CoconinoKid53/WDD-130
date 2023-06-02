@@ -12,6 +12,7 @@ body {
 header {
     display: grid;
     grid-template-columns: 150px auto;
+    background-color: #19d60b;
 }
 nav {
     display: flex;
@@ -26,6 +27,9 @@ nav {
     grid-column: 1/4;
     grid-row: 1/3;
     z-index: -1;
+}
+#hero-img {
+    width:100%;
 }
 #hero-msg {
     grid-column: 2/3;
@@ -62,7 +66,7 @@ h2{
 }
 nav a{
     text-decoration: none;
-    color: #fcfbfb;
+    color: #20d120;
     text-align: center;
     padding: 35px;
 }
@@ -74,6 +78,11 @@ main section{
     height: 725px;
         background-color:rgba(20,30,13, .7);
 }
+.logo{
+    width: 80px;
+}
+
+
 .icon{
     width: 80px;
 }
@@ -115,11 +124,30 @@ footer p a:hover {
 }    
              
 .home-title{
+    display: block;
     font-size: 2em;
     font-family: 'French canon', sans-serif;
     margin-top: 10px;
+    margin-bottom: 0px;
+
+
+}
+.center {
+    margin: 0 auto;
+    text-align: center;
 }
 
+main section img {
+    box-sizing: border-box;
+}
+.home-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+}
+.river-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr ;
+}
 .book, .join{
     background-color: #d9c2a3;
     color: black;
@@ -150,6 +178,9 @@ footer p a:hover {
 #background {
     grid-column: 1/11;
     grid-row:4/9 ;
+    height: 725px;
+    background-color: aqua;
+    color: black;
 
 }
 .mountains {
