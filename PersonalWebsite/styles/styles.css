@@ -1,0 +1,75 @@
+header {
+    display: grid;
+    grid-template-columns: 150px auto;
+    background-color: #ff1616;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+nav a{
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    padding: 35px;
+}
+
+nav a  {
+    padding: 35px;
+  }
+
+img{
+    width: 10%;
+}
+
+.home-grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+#par2{
+    grid-column: 1/2;
+    grid-row: 2/3;
+}
+#par4{
+    grid-column: 1/2;
+    grid-row: 4/5;
+}
+h1{
+    text-align: center;
+}
+
+
+.limo-card1{
+    grid-column: 3/10;
+    grid-row:4/10 ;
+}
+.limo-paragraph {
+    grid-column:5/10;
+    grid-row: 6/10;
+}
+
+.rhino-card2 {
+    grid-column: 1/4;
+    grid-row:2/3 ;
+
+}
+.campfire-card3 {
+    grid-column: 1/4;
+    grid-row:2/1 ;
+
+}
+
+.campfire-paragraph {
+    grid-column: 4/10;
+    grid-row: 1/10;
+}
+
+
+.rhino-paragraph {
+    grid-column: 4/10;
+    grid-row: 2/8
+
+}
