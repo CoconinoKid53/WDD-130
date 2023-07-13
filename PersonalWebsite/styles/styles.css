@@ -141,16 +141,32 @@ stay-fly paragraph {
 }
 
 .bowlingalley-card3{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 60px;
     
 }
 
 
 
 
+paintball-paragraph{
+    grid-column: 2/10;
+    grid-row: 4/10
+
+}
 
 
 
+lazertag-paragraph{
+    grid-column: 4/10;
+    grid-row: 2/10
+}
 
+bowlingalley-paragraph{
+    grid-column: 4/10;
+    grid-row: 2/10
+}
 
 
 
